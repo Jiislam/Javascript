@@ -15,5 +15,3 @@ else{
     console.log('I will eat potato');
 }
 
-
-
